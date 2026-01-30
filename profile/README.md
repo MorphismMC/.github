@@ -1,1 +1,1 @@
-<h2 align="center">MorphismMC</h2>
+![image](https://github.com/MorphismMC/brand/blob/main/banner.png)
