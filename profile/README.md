@@ -1,4 +1,4 @@
-![image](https://github.com/MorphismMC/brand/blob/main/banner.png)
+![banner](../brand/banner.png)
 
 Welcome to visit Github homepage of *MorphismMC* team, we are working on mod development for [Minecraft: Java Edition](https://www.minecraft.net/en-us).
 
